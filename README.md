@@ -1,4 +1,4 @@
-# temp-sql.py
+# temp_sql.py
 
 Is configured that you can read the temperature and humidity and sends automaticly to the sql database.
 
