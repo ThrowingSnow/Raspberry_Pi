@@ -1,6 +1,6 @@
 # temp_sql.py
 
-Is configured that you can read the temperature and humidity and sends automaticly to the sql database.
+Is configured that you can read the temperature and humidity with the DHT11 Sensor and sends automaticly to the sql database.
 
 1. sudo apt-get update && sudo apt-get upgrade
 2. sudo apt-get install mysql-server
