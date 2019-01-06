@@ -7,8 +7,7 @@ Is configured that you can read the temperature and humidity with the DHT11 Sens
 3. sudo apt-get -y install python3-mysql.connector
 4. sudo apt-get install mysql-client php5-mysql
 5. sudo apt-get install phpmyadmin
-
 6. Create database readings
 7. Create 3 column data, temperature, humidity
-
 8. sudo python temp_sql.py 11 4
+Hope it works.
