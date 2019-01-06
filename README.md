@@ -9,4 +9,5 @@ It's configured that you can read the temperature and humidity with the DHT11 Se
 5. sudo apt-get install phpmyadmin
 6. Create database readings
 7. Create 3 column data, temperature, humidity
-8. sudo python temp_sql.py 11 4
+8. sudo git clone https://github.com/ThrowingSnow/Raspberry_Pi.git
+9. sudo python temp_sql.py 11 4
