@@ -8,7 +8,7 @@ import Adafruit_DHT
 import mysql.connector
 import datetime
 
-mydb = mysql.connector.connect(host= "localhost",user= "root",passwd="Kanada116",database="readings")
+mydb = mysql.connector.connect(host= "localhost",user= "root",passwd="***",database="readings")
 
 mycursor =mydb.cursor()
 
