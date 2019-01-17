@@ -14,3 +14,9 @@ It's configured that you can read the temperature and humidity with the DHT11 Se
 9. sudo python temp_sql.py 11 4
 
 to be continued...
+
+
+# camera_timestamp.py
+
+Whene you take a photo it makes a timestamp ind the filename
+
